@@ -2,20 +2,6 @@
 
 A comprehensive end-to-end data warehouse and analytics solution that integrates e-commerce transactions (orders, customers, products) with supply chain logistics (warehouse capacity, shipments), culminating in a Power BI dashboard for actionable insights.
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Features & Architecture](#features--architecture)
-- [Repository Structure](#repository-structure)
-- [Prerequisites & Setup](#prerequisites--setup)
-- [How to Run](#how-to-run)
-- [Data Model & ERD](#data-model--erd)
-- [Advanced Features](#advanced-features)
-- [Power BI Dashboard](#power-bi-dashboard)
-- [Business Value](#business-value)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [Contact](#contact)
-
 ## Project Overview
 This repository demonstrates a complete data warehousing pipeline built from scratch, covering:
 
